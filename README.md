@@ -26,15 +26,14 @@
   <img alt="CrewAI" src="https://img.shields.io/badge/-CrewAI-4B5563?style=flat-square" />
   <img alt="Ollama" src="https://img.shields.io/badge/-Ollama-7C3AED?style=flat-square" />
   <img alt="Google Gemini" src="https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-74aa9c?style=flat-square&logo=openai&logoColor=white" />
   <img alt="Perplexity" src="https://img.shields.io/badge/-Perplexity-000000?style=flat-square" />
 </p>
 
 <h4>Databases & APIs</h4>
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="REST" src="https://img.shields.io/badge/-REST-FF6F00?style=flat-square" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Apache Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
 </p>
 
