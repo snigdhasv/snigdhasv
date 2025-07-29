@@ -56,7 +56,7 @@ Here's what I play with to bring ideas to life:
 ✅ **Readable Code**:  I write code that’s more readable than your average IKEA manual  
 🪲 **Bug Slayer**: I squash bugs so fast they file grievances  
 🤝 **Team Player**: Collaboration > egos. If you can teach me something new, we’re already friends  
-📚 **Forever Learner**: My Stack Overflow tab basically lives rent-free in my browser
+📚 **Forever Learner**: My Stack Overflow and ChatGPT tabs basically live rent-free in my browser
 
 ---
 
